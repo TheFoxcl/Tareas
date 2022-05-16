@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/PruebaBancolombia/static/css/main.b0b0f36b.css",
-    "main.js": "/PruebaBancolombia/static/js/main.2783b19c.js",
-    "static/media/logoTM.png": "/PruebaBancolombia/static/media/logoTM.d99381b67e81a8458b91.png",
-    "index.html": "/PruebaBancolombia/index.html",
-    "main.b0b0f36b.css.map": "/PruebaBancolombia/static/css/main.b0b0f36b.css.map",
-    "main.2783b19c.js.map": "/PruebaBancolombia/static/js/main.2783b19c.js.map"
+    "main.css": "/Tareas/static/css/main.b0b0f36b.css",
+    "main.js": "/Tareas/static/js/main.e1c4434c.js",
+    "static/media/logoTM.png": "/Tareas/static/media/logoTM.d99381b67e81a8458b91.png",
+    "index.html": "/Tareas/index.html",
+    "main.b0b0f36b.css.map": "/Tareas/static/css/main.b0b0f36b.css.map",
+    "main.e1c4434c.js.map": "/Tareas/static/js/main.e1c4434c.js.map"
   },
   "entrypoints": [
     "static/css/main.b0b0f36b.css",
-    "static/js/main.2783b19c.js"
+    "static/js/main.e1c4434c.js"
   ]
 }
